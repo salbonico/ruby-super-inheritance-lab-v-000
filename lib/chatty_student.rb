@@ -9,5 +9,5 @@ end
 
 def raise_hand
   super
- return "Pick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!"
+
 end
