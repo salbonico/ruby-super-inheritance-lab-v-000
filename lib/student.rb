@@ -5,7 +5,7 @@ def hello
 end
 
 def raise_hand
-  returns "Pick me!"
+  return "Pick me!"
 end
 
 end
