@@ -6,5 +6,6 @@ end
 
 def raise_hand
   returns "Pick me!"
+end
 
 end
